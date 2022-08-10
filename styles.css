@@ -1,0 +1,12 @@
+#img-div #image{
+    max-width:100%;
+    width:100%;
+    height:auto;
+    display:block;
+}
+
+img{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}

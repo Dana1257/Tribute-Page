@@ -52,6 +52,34 @@ img{
     margin:0;
 }
 
-.eighteen{
+.font-size-list{
     font-size:1.12rem;
+    text-align:justify;
 }
+
+@media (min-width:320px){
+
+h2{
+    font-size: 2.5rem;
+}
+
+#tribute-info, .facts{
+    font-size: 1.88rem;
+}
+  
+.font-size{
+    font-size:2.3rem;
+}
+
+.left-aligned{
+    font-size:2.5rem;
+}
+
+#img-caption{
+    font-size:1.7rem;
+}
+
+.source{
+    font-size:2.3rem;
+}
+ }

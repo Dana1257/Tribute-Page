@@ -97,11 +97,9 @@ ul{
     font-size:2.2rem;
 }
 
-
-
-
-
-
-
-
+#img-div, #image{
+    width:70%;
+    margin-right:auto;
+    margin-left:auto;
 }
+ }

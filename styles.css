@@ -64,12 +64,12 @@ ul{
 }
 
 .timeline{
-    margin-left:-9.38rem;
+    margin-right:9.1rem;
 }
 
 @media (min-width:320px){
 
 .timeline{
-    margin-left:-13.13rem;
+    margin-right:13.7rem;
 }
  }

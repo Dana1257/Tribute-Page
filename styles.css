@@ -68,8 +68,40 @@ ul{
 }
 
 @media (min-width:320px){
-
 .timeline{
     margin-right:13.7rem;
 }
  }
+
+@media (min-width:412px){
+.timeline {
+    margin-right:15rem;
+    font-size:1.9rem;
+}
+
+.facts{
+  margin-right:2.5rem;
+  font-size:30px;
+}
+}
+@media (min-width:540px){
+.timeline{
+    margin-right:23rem;
+ }
+
+#img-caption{
+    font-size:1.9rem;
+}
+
+.facts{
+    font-size:2.2rem;
+}
+
+
+
+
+
+
+
+
+}

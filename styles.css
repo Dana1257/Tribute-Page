@@ -154,3 +154,37 @@ h1{
 }
  }
 
+@media (min-width:1024px){
+h1{
+    font-size:5rem;
+}
+
+.timeline{
+font-size:4.5rem;
+}
+
+.font-size{
+    font-size:3rem;
+}   
+
+.year{
+    font-size:3.6rem;
+}
+
+#img-div #image{
+    width:70%;
+}
+
+.facts{
+    font-size:4.5rem;
+}
+
+.source{
+    font-size:2.6rem;
+}
+ 
+.link{
+    font-size:2.6rem;
+}
+ }
+

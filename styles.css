@@ -164,7 +164,7 @@ font-size:4.5rem;
 }
 
 .font-size{
-    font-size:2.6rem;
+    font-size:2rem;
 }   
 
 .year{
@@ -179,12 +179,62 @@ font-size:4.5rem;
     font-size:4.5rem;
 }
 
-.source,.link{
+.source,.link {
     font-size:2.6rem;
 }
  }
 
 @media (min-width:1201px){
 
+h1{
+    font-size:7rem;
+    margin-top:0;
+    margin-bottom:0;
 }
+
+.timeline,.facts{
+    font-size:5.7rem;
+    margin-bottom:1%;
+}
+
+.source, .link, #tribute-link {
+    font-size:3.3rem;
+}
+
+.facts{
+    margin-top:1%;
+    font-size:6rem;
+}
+
+::-webkit-scrollbar{
+    width:1.5vw;
+}
+::-webkit-scrollbar-track{
+   background-color:lightgreen;
+   border-radius:0.8vw;
+   }
+::-webkit-scrollbar-thumb{
+   background-image:linear-gradient(blue,red);
+   border-radius:3vw;
+   border:6px solid transparent;
+   background-clip:content-box;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 

@@ -42,16 +42,16 @@ ul{
 }
 
 .left-aligned{
-    text-align:center;
-    margin-left:0rem;
+   text-align:center;
+   margin-left:0rem;
 }
 
 .font-size{
-    font-size:20px;
+   font-size:20px;
 }
 
 .year{
-    font-size:1.56rem;
+   font-size:1.56rem;
 }
 
 .margin{
@@ -69,6 +69,7 @@ ul{
 }
 
 @media (min-width:320px){
+
 .timeline{
     margin-right:65%;
     font-size:2.5rem;
@@ -81,23 +82,24 @@ ul{
     }
 
 @media (min-width:412px){
+
 .timeline {
     margin-right:67%;
     font-size:2.5rem;
 }
 
 .facts{
-  margin-right:5%;
-  font-size:1.7rem;
-  text-align:center;
+    margin-right:5%;
+    font-size:1.7rem;
+    text-align:center;
 }
 }
 @media (min-width:540px){
 
 #img-div, #image{
-   width:70%;
-   margin-right:auto;
-   margin-left:auto;
+    width:70%;
+    margin-right:auto;
+    margin-left:auto;
     }
 
 .timeline{
@@ -124,7 +126,7 @@ h1{
  }
 
 #img-div #image{
-  width:75%;
+    width:75%;
 }
 
 #img-caption{
@@ -155,12 +157,13 @@ h1{
  }
 
 @media (min-width:1024px){
+
 h1{
     font-size:5rem;
 }
 
 .timeline{
-font-size:4.5rem;
+    font-size:4.5rem;
 }
 
 .font-size{

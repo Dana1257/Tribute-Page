@@ -101,7 +101,7 @@ ul{
     }
 
 .timeline{
-    margin-right:23rem;
+    margin-right:85%;
  }
 
 #img-caption{
@@ -120,7 +120,7 @@ ul{
 @media (min-width:768px){
     
 h1{
-    font-size:3rem;
+    font-size:4rem;
  }
 
 #img-div #image{
